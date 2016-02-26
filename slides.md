@@ -1,10 +1,7 @@
 # Changing Direction
 
 ## or
-## How I doubled my salary while moving from academia to industry
-
-## _Try moving `RIGHT`._<!-- .element: class="fragment" data-fragment-index="2" -->
-
+## How I doubled my salary while moving from academia to industry._<!-- .element: class="fragment" data-fragment-index="2" -->
 
 
 ## Follow along
