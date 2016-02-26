@@ -1,7 +1,7 @@
 # Changing Direction
 
 ## or
-## (How I doubled my *salary* while moving from academia to industry).<!-- .element: class="fragment" data-fragment-index="0" -->
+## [How I doubled my *salary* while moving from academia to industry.]<!-- .element: class="fragment" data-fragment-index="0" -->
 
 
 
@@ -17,7 +17,7 @@ Sounds good, right?
 
 
 ## Issues
-* Recession<!-- .element: class="fragment" data-fragment-index="1" -->
+* Recession.<!-- .element: class="fragment" data-fragment-index="1" -->
 * Sysadmin, most marketable skill, also my least favorite.<!-- .element: class="fragment" data-fragment-index="2" -->
 * Languages used mostly irrelevant to industry.<!-- .element: class="fragment" data-fragment-index="3" -->
 * self-taught, worked in a vacuum.<!-- .element: class="fragment" data-fragment-index="4" -->
@@ -41,11 +41,51 @@ Sounds good, right?
 
 
 
+# Serendipity
+
+
+
 ## My approach:
 * code, code, code
-* get to know other developers
+* get to know other developer
 * learn nuts and bolts of job hunting in 21st century
 * find support, may be a long haul
+
+
+
+# Fortunately, there is significant overlap
+
+
+
+## Support with others looking for work
+* exchange resumes, cover letters, practice interviews<!-- .element: class="fragment" data-fragment-index="1" -->
+* practice coding interviews<!-- .element: class="fragment" data-fragment-index="1" -->
+* Matt Youngquist and Career Horizons<!-- .element: class="fragment" data-fragment-index="1" -->
+* WA State Career Centers<!-- .element: class="fragment" data-fragment-index="1" -->
+
+
+
+# coding meetups, coding dojos, hackathons, programming nights
+* learn
+* meet people
+* craftsmanship
+* find your people
+
+
+
+## Create the support you need
+![alt text](assets/uw_lab_devs.jpg "UW Coding")
+
+
+
+# Yes, the odds are stacked against you.
+![alt text](lottery.jpg "Lottery")
+
+
+
+## Implicit Bias
+![alt text](assets/Han-Solo-with-Rey-in-Star-Wars-7.jpg "UW Coding")
+
 
 
 
