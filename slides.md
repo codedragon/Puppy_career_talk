@@ -4,14 +4,12 @@
 ## How I doubled my salary while moving from academia to industry._<!-- .element: class="fragment" data-fragment-index="2" -->
 
 
-## Follow along
-These slides are created with Reveal.js + Markdown.
 
-Take a look at the [raw source for the slides](https://raw.githubusercontent.com/MaptimeCalgary/presentation-example/gh-pages/slides.md). The repo can be found [here](https://github.com/MaptimeCalgary/presentation-example).
-
+## Hint:
+![alt text](assets/challengesdemotivator.jpeg "Challenges")
 
 
-## This is a new slide
+
 Create these by placing 3 line-breaks in the markdown source.
 
 _From here, you can move `LEFT`, `RIGHT`, or `DOWN`._ <!-- .element: class="fragment" data-fragment-index="0" -->
