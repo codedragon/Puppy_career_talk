@@ -1,7 +1,7 @@
 # Changing Direction
 
 ## or
-## How I <em>doubled</em> my salary while moving from academia to industry.<!-- .element: class="fragment" data-fragment-index="0" -->
+## How I doubled my salary while moving from academia to industry.<!-- .element: class="fragment" data-fragment-index="0" -->
 
 
 
@@ -13,7 +13,7 @@
 ## About me four years ago:
 * worked in neurosicence as a sysadmin/developer
 * loved working in science, loved coding
-* Boss was a Howard Hughes Investigator (decent pay, great benefits)
+* boss was a Howard Hughes Investigator (decent pay, great benefits)
 * job was pretty stable for staff in academia
 
 
@@ -21,7 +21,7 @@
 ## Boss decided to move across the country
 ## Suddently unemployed<!-- .element: class="fragment" data-fragment-index="1" -->
 ## But, I had over 10 years experience as a sysadmin/developer<!-- .element: class="fragment" data-fragment-index="2" -->
-Sounds good, right?
+Sounds good, right?<!-- .element: class="fragment" data-fragment-index="3" -->
 
 
 
