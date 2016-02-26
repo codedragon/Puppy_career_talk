@@ -1,7 +1,7 @@
 # Changing Direction
 
 ## or
-## How I *doubled* my salary while moving from academia to industry ##._<!-- .element: class="fragment" data-fragment-index="0" -->
+## (How I doubled my *salary* while moving from academia to industry).<!-- .element: class="fragment" data-fragment-index="0" -->
 
 
 
@@ -17,11 +17,11 @@ Sounds good, right?
 
 
 ## Issues
-* Recession._<!-- .element: class="fragment" data-fragment-index="1" -->
-* Sysadmin most marketable skill, also my least favorite._<!-- .element: class="fragment" data-fragment-index="2" -->
-* Languages used mostly irrelevant to industry._<!-- .element: class="fragment" data-fragment-index="3" -->
-* self-taught, worked in a vacuum._<!-- .element: class="fragment" data-fragment-index="4" -->
-* Only knew two other developers in Seattle._<!-- .element: class="fragment" data-fragment-index="5" -->
+* Recession<!-- .element: class="fragment" data-fragment-index="1" -->
+* Sysadmin, most marketable skill, also my least favorite.<!-- .element: class="fragment" data-fragment-index="2" -->
+* Languages used mostly irrelevant to industry.<!-- .element: class="fragment" data-fragment-index="3" -->
+* self-taught, worked in a vacuum.<!-- .element: class="fragment" data-fragment-index="4" -->
+* Only knew two other developers in Seattle.<!-- .element: class="fragment" data-fragment-index="5" -->
 
 
 
@@ -30,7 +30,8 @@ Sounds good, right?
 
 
 # Spent a good year flailing
-![external image](http://giphy.com/gifs/fish-flopping-flip-flop-5yLgoctamv8qXGfbp28 "flailing")
+![alt text](assets/SEPattyflailingwheee.gif "Flailing")
+
 
 
 
