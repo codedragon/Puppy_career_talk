@@ -1,7 +1,7 @@
 # Changing Direction
 
 ## or
-## How I doubled my salary while moving from academia to industry._<!-- .element: class="fragment" data-fragment-index="2" -->
+## How I *doubled* my salary while moving from academia to industry._<!-- .element: class="fragment" data-fragment-index="2" -->
 
 
 
@@ -17,15 +17,21 @@ Sounds good, right?
 
 
 ## Issues
-* Recession
-* Sysadmin most marketable skill, also my least favorite
-* Languages used mostly irrelevant to industry
-* self-taught, worked in a vacuum
-* Only knew two other developers in Seattle
+* Recession._<!-- .element: class="fragment" data-fragment-index="2" -->
+* Sysadmin most marketable skill, also my least favorite._<!-- .element: class="fragment" data-fragment-index="2" -->
+* Languages used mostly irrelevant to industry._<!-- .element: class="fragment" data-fragment-index="2" -->
+* self-taught, worked in a vacuum._<!-- .element: class="fragment" data-fragment-index="2" -->
+* Only knew two other developers in Seattle._<!-- .element: class="fragment" data-fragment-index="2" -->
 
 
 
 ### Only knew two other developers in Seattle
+
+
+
+## Soul Searching
+* Wanted to code, not sysadmin
+* Introvert, but clearly needed to figure out this networking thing
 
 
 
