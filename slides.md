@@ -1,7 +1,7 @@
 # Changing Direction
 
 ## or
-## [How I doubled my *salary* while moving from academia to industry.]<!-- .element: class="fragment" data-fragment-index="0" -->
+##How I doubled my *salary* while moving from academia to industry.<!-- .element: class="fragment" data-fragment-index="0" -->
 
 
 
@@ -79,12 +79,19 @@ Sounds good, right?
 
 
 # Yes, the odds are stacked against you.
-![alt text](lottery.jpg "Lottery")
+![alt text](assets/lottery.jpg "Lottery")
 
 
 
 ## Implicit Bias
 ![alt text](assets/Han-Solo-with-Rey-in-Star-Wars-7.jpg "UW Coding")
+
+
+
+## StereoType Threat
+
+
+
 
 
 
