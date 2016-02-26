@@ -59,13 +59,13 @@ Sounds good, right?
 
 ## Support with others looking for work
 * exchange resumes, cover letters, practice interviews<!-- .element: class="fragment" data-fragment-index="1" -->
-* practice coding interviews<!-- .element: class="fragment" data-fragment-index="1" -->
-* Matt Youngquist and Career Horizons<!-- .element: class="fragment" data-fragment-index="1" -->
-* WA State Career Centers<!-- .element: class="fragment" data-fragment-index="1" -->
+* practice coding interviews<!-- .element: class="fragment" data-fragment-index="2" -->
+* Matt Youngquist and Career Horizons<!-- .element: class="fragment" data-fragment-index="3" -->
+* WA State Career Centers<!-- .element: class="fragment" data-fragment-index="4" -->
 
 
 
-# coding meetups, coding dojos, hackathons, programming nights
+## coding meetups, coding dojos, hackathons, programming nights
 * learn
 * meet people
 * craftsmanship
