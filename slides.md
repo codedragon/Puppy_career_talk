@@ -1,11 +1,9 @@
 # Changing Direction
 
-## MaptimeCalgary
-This is the first slide.
+## or
+## How I doubled my salary while moving from academia to industry
 
-_Press `F` to go full-screen._<!-- .element: class="fragment" data-fragment-index="1" -->
-
-_Try moving `RIGHT`._<!-- .element: class="fragment" data-fragment-index="2" -->
+## _Try moving `RIGHT`._<!-- .element: class="fragment" data-fragment-index="2" -->
 
 
 
