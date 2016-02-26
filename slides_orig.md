@@ -1,4 +1,4 @@
-# Changing Direction
+# The presentation template
 
 ## MaptimeCalgary
 This is the first slide.
