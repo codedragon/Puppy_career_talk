@@ -10,6 +10,25 @@
 
 
 
+## About me four years ago:
+## 10 years in academia as a sysadmin/developer
+Sounds good, right?
+
+
+
+## Issues
+* Recession
+* Sysadmin most marketable skill, also my least favorite
+* Languages used mostly irrelevant to industry
+* self-taught, worked in a vacuum
+* Only knew two other developers in Seattle
+
+
+
+### Only knew two other developers in Seattle
+
+
+
 Create these by placing 3 line-breaks in the markdown source.
 
 _From here, you can move `LEFT`, `RIGHT`, or `DOWN`._ <!-- .element: class="fragment" data-fragment-index="0" -->
