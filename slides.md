@@ -30,6 +30,7 @@ Sounds good, right?
 
 
 # Spent a good year flailing
+![external image](http://giphy.com/gifs/fish-flopping-flip-flop-5yLgoctamv8qXGfbp28 "flailing")
 
 
 
