@@ -1,7 +1,7 @@
 # Changing Direction
 
 ## or
-##How I doubled my *salary* while moving from academia to industry.<!-- .element: class="fragment" data-fragment-index="0" -->
+## How I <em>doubled</em> my salary while moving from academia to industry.<!-- .element: class="fragment" data-fragment-index="0" -->
 
 
 
