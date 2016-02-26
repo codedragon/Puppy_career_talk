@@ -11,7 +11,16 @@
 
 
 ## About me four years ago:
-## 10 years in academia as a sysadmin/developer
+* worked in neurosicence as a sysadmin/developer
+* loved working in science, loved coding
+* Boss was a Howard Hughes Investigator (decent pay, great benefits)
+* job was pretty stable for staff in academia
+
+
+
+## Boss decided to move across the country
+## Suddently unemployed<!-- .element: class="fragment" data-fragment-index="1" -->
+## But, I had over 10 years experience as a sysadmin/developer<!-- .element: class="fragment" data-fragment-index="2" -->
 Sounds good, right?
 
 
