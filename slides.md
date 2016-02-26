@@ -1,7 +1,7 @@
 # Changing Direction
 
 ## or
-## How I *doubled* my salary while moving from academia to industry._<!-- .element: class="fragment" data-fragment-index="2" -->
+## How I *doubled* my salary while moving from academia to industry ##._<!-- .element: class="fragment" data-fragment-index="0" -->
 
 
 
@@ -17,11 +17,11 @@ Sounds good, right?
 
 
 ## Issues
-* Recession._<!-- .element: class="fragment" data-fragment-index="2" -->
+* Recession._<!-- .element: class="fragment" data-fragment-index="1" -->
 * Sysadmin most marketable skill, also my least favorite._<!-- .element: class="fragment" data-fragment-index="2" -->
-* Languages used mostly irrelevant to industry._<!-- .element: class="fragment" data-fragment-index="2" -->
-* self-taught, worked in a vacuum._<!-- .element: class="fragment" data-fragment-index="2" -->
-* Only knew two other developers in Seattle._<!-- .element: class="fragment" data-fragment-index="2" -->
+* Languages used mostly irrelevant to industry._<!-- .element: class="fragment" data-fragment-index="3" -->
+* self-taught, worked in a vacuum._<!-- .element: class="fragment" data-fragment-index="4" -->
+* Only knew two other developers in Seattle._<!-- .element: class="fragment" data-fragment-index="5" -->
 
 
 
@@ -29,9 +29,21 @@ Sounds good, right?
 
 
 
+# Spent a good year flailing
+
+
+
 ## Soul Searching
 * Wanted to code, not sysadmin
 * Introvert, but clearly needed to figure out this networking thing
+
+
+
+## My approach:
+* code, code, code
+* get to know other developers
+* learn nuts and bolts of job hunting in 21st century
+* find support, may be a long haul
 
 
 
