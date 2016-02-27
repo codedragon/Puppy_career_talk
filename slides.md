@@ -59,8 +59,8 @@ Sounds good, right?<!-- .element: class="fragment" data-fragment-index="3" -->
 ## Lessons
 * Direction, goals help
 * Concentrate on what brings the most bang for your buck
-..* for me, interview over whiteboarding
-..* talks, teaching over small talk
+* * for me, interview over whiteboarding
+* * talks, teaching over small talk
 
 Note: 
 Throwing resumes willy nilly to see if they stick is not productive
