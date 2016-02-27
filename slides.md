@@ -62,15 +62,20 @@ Sounds good, right?<!-- .element: class="fragment" data-fragment-index="3" -->
 - for me, interview over whiteboarding
 - talks, teaching over small talk
 
-Note: Throwing resumes willy nilly to see if they stick is not productive
+Note: 
+Throwing resumes willy nilly to see if they stick is not productive
 If you have a tight resume/linkedin, you can get some headway with recruiters,
-but inside help with get you past your deficiencies
+but inside help will help get you past your deficiencies
 
-Note: Story about whiteboard coding, 
+Note: 
+Story about whiteboard coding, 
 
 
 
 # Serendipity
+
+Note:
+When to take a job: does it closer to where you want to be?
 
 
 
