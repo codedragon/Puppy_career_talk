@@ -12,7 +12,7 @@
 
 ## About me four years ago:
 * worked in neurosicence as a sysadmin/developer
-* loved working in science, loved coding
+* loved my job, working in science, loved coding
 * boss was a Howard Hughes Investigator (decent pay, great benefits)
 * job was pretty stable for staff in academia
 
@@ -28,13 +28,19 @@ Sounds good, right?<!-- .element: class="fragment" data-fragment-index="3" -->
 ## Issues
 * Recession.<!-- .element: class="fragment" data-fragment-index="1" -->
 * Sysadmin, most marketable skill, also my least favorite.<!-- .element: class="fragment" data-fragment-index="2" -->
-* Languages used mostly irrelevant to industry.<!-- .element: class="fragment" data-fragment-index="3" -->
+* Languages coded in were mostly irrelevant to industry.<!-- .element: class="fragment" data-fragment-index="3" -->
 * self-taught, worked in a vacuum.<!-- .element: class="fragment" data-fragment-index="4" -->
 * Only knew two other developers in Seattle.<!-- .element: class="fragment" data-fragment-index="5" -->
 
 
 
 ### Only knew two other developers in Seattle
+
+
+
+# Lessons
+* Never assume
+* Always be preparing for your next step
 
 
 
@@ -47,6 +53,20 @@ Sounds good, right?<!-- .element: class="fragment" data-fragment-index="3" -->
 ## Soul Searching
 * Wanted to code, not sysadmin
 * Introvert, but clearly needed to figure out this networking thing
+
+
+
+## Lessons
+* Direction, goals help
+* Concentrate on what brings the most bang for your buck
+- for me, interview over whiteboarding
+- talks, teaching over small talk
+
+Note: Throwing resumes willy nilly to see if they stick is not productive
+If you have a tight resume/linkedin, you can get some headway with recruiters,
+but inside help with get you past your deficiencies
+
+Note: Story about whiteboard coding, 
 
 
 
@@ -84,6 +104,13 @@ Sounds good, right?<!-- .element: class="fragment" data-fragment-index="3" -->
 
 ## Create the support you need
 ![alt text](assets/uw_lab_devs.jpg "UW Coding")
+
+
+
+## Online Presence
+* LinkedIn
+* Github
+* Blog
 
 
 
