@@ -49,7 +49,6 @@ Sounds good, right?<!-- .element: class="fragment" data-fragment-index="3" -->
 
 
 
-
 ## Soul Searching
 * Wanted to code, not sysadmin
 * Introvert, but clearly needed to figure out this networking thing
@@ -57,20 +56,15 @@ Sounds good, right?<!-- .element: class="fragment" data-fragment-index="3" -->
 
 
 ## Lessons
-* Direction, goals help
-* Concentrate on what brings the most bang for your buck
+* Direction, goals help, can change<!-- .element: class="fragment" data-fragment-index="1" -->
+    * Can be simple, for me python and best practices
+* Concentrate on what brings the most bang for your buck<!-- .element: class="fragment" data-fragment-index="2" -->
     * for me, interview over whiteboarding
     * talks, teaching over small talk
 
 
 Note: 
 Throwing resumes willy nilly to see if they stick is not productive.
-
-
-Note:
-If you have a tight resume/linkedin, you can get some headway with recruiters,
-but inside help will help get you past your deficiencies
-
 
 Note: 
 Story about whiteboard coding, 
@@ -97,18 +91,31 @@ When to take a job: does it closer to where you want to be?
 
 
 ## Support with others looking for work
-* exchange resumes, cover letters, practice interviews<!-- .element: class="fragment" data-fragment-index="1" -->
-* practice coding interviews<!-- .element: class="fragment" data-fragment-index="2" -->
-* Matt Youngquist and Career Horizons<!-- .element: class="fragment" data-fragment-index="3" -->
-* WA State Career Centers<!-- .element: class="fragment" data-fragment-index="4" -->
+* create an informal group or meetup group with acquaintances/friends/pyladies, anyone looking for work
+    * exchange resumes, cover letters, practice interviews<!-- .element: class="fragment" data-fragment-index="1" -->
+* More personal or professional help:
+    * WA State Career Centers<!-- .element: class="fragment" data-fragment-index="2" -->
+    * Matt Youngquist and Career Horizons<!-- .element: class="fragment" data-fragment-index="3" -->
+
+
+
+# A word about networking:
+Your most import connections will be the ones who have worked with you, coded with you 
+or see you as an expert on some level
+
+
+Note:
+If you have a tight resume/linkedin, you can get some headway with comapyny recruiters,
+but inside help will help get you past your deficiencies
+Peter
 
 
 
 ## coding meetups, coding dojos, hackathons, programming nights
 * learn
-* meet people
-* craftsmanship
+* craftsmanship as well as coding
 * find your people
+* pay attention to goals and technologies for right fit
 
 
 
@@ -124,7 +131,15 @@ When to take a job: does it closer to where you want to be?
 
 
 
-# Yes, the odds are stacked against you.
+## Seek out people in jobs you want and take them to coffee
+* use your connections on linked in
+* ask them what skills they use in their job
+* how they got where they are
+* advice for people wanting to follow in their footsteps
+
+
+
+# Yes, the game is rigged against you.
 ![alt text](assets/lottery.jpg "Lottery")
 
 
