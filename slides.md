@@ -10,7 +10,7 @@
 
 
 
-## About me four years ago:
+## About me five years ago:
 * worked in neurosicence as a sysadmin/developer
 * loved my job, working in science, loved coding
 * boss was a Howard Hughes Investigator (decent pay, great benefits)
@@ -56,10 +56,12 @@ Sounds good, right?<!-- .element: class="fragment" data-fragment-index="3" -->
 
 
 ## Lessons
-* Direction, goals help, can change<!-- .element: class="fragment" data-fragment-index="1" -->
-    * Can be simple, for me python and best practices
+* Direction and goals really help, but can change<!-- .element: class="fragment" data-fragment-index="1" -->
+    * Can be simple 
+    * for me: python and best practices
 * Concentrate on what brings the most bang for your buck<!-- .element: class="fragment" data-fragment-index="2" -->
-    * for me, interview over whiteboarding
+    * for me: 
+    * interview over whiteboarding
     * talks, teaching over small talk
 
 
@@ -145,6 +147,17 @@ Peter
 
 
 ## Implicit Bias
+* Implicit bias is a bias that you are unaware of. 
+* We are all affected by the culture we grow up in. 
+* Explicit beliefs and implicit bias can, and often do, conflict.
+
+https://implicit.harvard.edu/implicit/takeatest.html
+
+Note:
+for people hiring: check your assumptions, are you rejecting someone for reasons that you would overlook if they were white male? Look at pictures of famous women/minorities before interviewing/looking at resumes.
+
+
+
 ![alt text](assets/Han-Solo-with-Rey-in-Star-Wars-7.jpg "UW Coding")
 
 
