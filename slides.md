@@ -19,7 +19,7 @@
 
 
 ## Boss decided to move across the country
-## Suddently unemployed<!-- .element: class="fragment" data-fragment-index="1" -->
+## Suddenly unemployed<!-- .element: class="fragment" data-fragment-index="1" -->
 ## But, I had over 10 years experience as a sysadmin/developer<!-- .element: class="fragment" data-fragment-index="2" -->
 Sounds good, right?<!-- .element: class="fragment" data-fragment-index="3" -->
 
@@ -56,20 +56,18 @@ Sounds good, right?<!-- .element: class="fragment" data-fragment-index="3" -->
 
 
 ## Lessons
-* Direction and goals really help, but can change<!-- .element: class="fragment" data-fragment-index="1" -->
-    * Can be simple 
+* Direction and goals really help, but be flexible
+    * Can be simple, just something to focus on
     * for me: python and best practices
-* Concentrate on what brings the most bang for your buck<!-- .element: class="fragment" data-fragment-index="2" -->
-    * for me: 
-    * interview over whiteboarding
-    * talks, teaching over small talk
-
-
-Note: 
-Throwing resumes willy nilly to see if they stick is not productive.
+* Concentrate on what brings the most bang for your buck<!-- .element: class="fragment" data-fragment-index="1" -->
+    * for me:
+    * interviewing over whiteboarding
+    * talks, teaching, coding events over small talk
+* find support, may be a long haul<!-- .element: class="fragment" data-fragment-index="2" -->
 
 Note: 
-Story about whiteboard coding, 
+I found throwing resumes willy nilly to see if they stick to not be productive.
+Story about whiteboard coding, practice helped for a while
 
 
 
@@ -77,52 +75,62 @@ Story about whiteboard coding,
 
 Note:
 When to take a job: does it closer to where you want to be?
+this show again the importance of knowing people
 
 
 
-## My approach:
+## My goals:
 * code, code, code
-* get to know other developer
+* get to know other developers
 * learn nuts and bolts of job hunting in 21st century
-* find support, may be a long haul
+* support
 
 
 
-# Fortunately, there is significant overlap
+# Fortunately, there can be significant overlap
 
 
 
 ## Support with others looking for work
-* create an informal group or meetup group with acquaintances/friends/pyladies, anyone looking for work
-    * exchange resumes, cover letters, practice interviews<!-- .element: class="fragment" data-fragment-index="1" -->
-* More personal or professional help:
-    * WA State Career Centers<!-- .element: class="fragment" data-fragment-index="2" -->
-    * Matt Youngquist and Career Horizons<!-- .element: class="fragment" data-fragment-index="3" -->
+* create or join an informal group or meetup group of people looking for work
+    * acquaintances/friends/pyladies
+    * exchange resumes, cover letters, practice interviews
+* More personal or professional help:<!-- .element: class="fragment" data-fragment-index="1" -->
+    * WA State Career Centers
+    * Matt Youngquist and Career Horizons
 
 
 
 # A word about networking:
-Your most import connections will be the ones who have worked with you, coded with you 
+Your most important connections will be the ones who have worked with you, coded with you 
 or see you as an expert on some level
 
+
+
+## coding meetups, coding dojos, hackathons, programming nights
+* learn craftsmanship/best practices as well as coding
+* find your people
+* pay attention to goals and technologies for right fit
+* find your voice
 
 Note:
 If you have a tight resume/linkedin, you can get some headway with comapyny recruiters,
 but inside help will help get you past your deficiencies
 Peter
+getting your resume in the right hand useful, having a personal note on that resume, even better
+giving talks, teaching - becoming an expert, better way to network,
 
 
 
-## coding meetups, coding dojos, hackathons, programming nights
-* learn
-* craftsmanship as well as coding
-* find your people
-* pay attention to goals and technologies for right fit
+[Blog post about why you should speak at pycon and local events](http://emptysqua.re/blog/tech-talks-are-campfires-jesses-three-reasons-you-should-speak-at-pycon/)
 
 
 
 ## Create the support you need
 ![alt text](assets/uw_lab_devs.jpg "UW Coding")
+
+Note:
+Led me to TA position for python certificate program at uw.
 
 
 
@@ -138,6 +146,15 @@ Peter
 * ask them what skills they use in their job
 * how they got where they are
 * advice for people wanting to follow in their footsteps
+* what do they like/dislike about their present position
+
+
+
+# Preparing for interviews:
+* People love good stories
+* What are you missing because you are switching careers/paths/industries? 
+* What have you learned/done in your present, recent job/project that speaks to that? 
+* What can you do right now to help to close that gap?
 
 
 
@@ -151,10 +168,14 @@ Peter
 * We are all affected by the culture we grow up in. 
 * Explicit beliefs and implicit bias can, and often do, conflict.
 
-https://implicit.harvard.edu/implicit/takeatest.html
+[Take a test](https://implicit.harvard.edu/implicit/takeatest.html)
 
 Note:
+people will go to great lengths to justify implicit bias.
+implicit bias affects minorities and women as well.
 for people hiring: check your assumptions, are you rejecting someone for reasons that you would overlook if they were white male? Look at pictures of famous women/minorities before interviewing/looking at resumes.
+
+If you feel like you nailed an interview, but didn't hear back, think about what you may have missed, but don't dwell. It could just be implicit bias, so just consider that corporation as one we need to lure from the dark side, and move on.
 
 
 
@@ -162,11 +183,58 @@ for people hiring: check your assumptions, are you rejecting someone for reasons
 
 
 
+# You may also be working against yourself
+
+
+
 ## StereoType Threat
 
 
 
+# How to overcome:
+* support - pyladies, seek out role models who 'look like you'
+* body language, check out [Amy Cuddy's Ted talk](https://www.youtube.com/watch?time_continue=175&v=Ks-_Mh1QhMc)
+* think about what makes you, you. All of your unique qualities and accomplishments
+* read articles/books about women who code
+* understand that intelligence is not fixed, and you are definitely capable of becoming an expert coder: effort and motivation are what is important
 
+
+
+## Imposter Syndrome
+
+
+
+# How to overcome:
+* knowledge is power
+* highly prevalent
+* talk about it, chances are you have friends you have dealt with this
+* make a list of accomplishments, positive feedback and success stories
+
+
+
+# Your goal is that others see you as an 'expert'
+
+Note: When I started as a TA, I barely knew more than the students
+
+
+
+### Thank you!
+
+http://codedragon.github.io/PyLadies_career_talk/#/
+
+
+
+# Links to relevant research
+[Great essay about sterotype threat with lots of research links](https://medium.com/@BoutiqueAcademia/fighting-stereotype-threat-with-jewelry-680b406296e#.9jo1yzob7) (I'm also a fan of her [jewelry store](http://www.boutiqueacademia.com/)) I wonder if we could get her to do pyladies jewelry...
+
+[Gender discrimination in hiring](http://www.socialjudgments.com/research.html)
+
+[Great book about gender, society and neuroscience](http://www.goodreads.com/book/show/8031168-delusions-of-gender)
+
+[Most recent implicit bias finding](http://www.washington.edu/news/2016/02/11/male-biology-students-consistently-underestimate-female-peers-study-finds/)
+
+[Maria Klawe's, president of Harvey Mudd College, essay on Imposter Syndrome
+](http://www.slate.com/articles/technology/future_tense/2014/03/imposter_syndrome_how_the_president_of_harvey_mudd_college_copes.html)
 
 
 

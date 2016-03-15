@@ -20,7 +20,9 @@
  *********************************************/
 body {
   background: url("dark_bkgnd.jpg");
-  background-color: #f7fbfc; }
+  background-color: #f7fbfc;
+  background-repeat: no-repeat;
+  background-position: right bottom; }
 
 .reveal {
   font-family: "Open Sans Condensed", sans-serif;
