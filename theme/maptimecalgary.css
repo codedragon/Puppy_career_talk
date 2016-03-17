@@ -30,6 +30,11 @@ body {
   font-weight: normal;
   color: #F2F2F2; }
 
+.reveal .slides {
+  bottom: 30%;
+  height: 75% !important;
+}
+
 ::selection {
   color: #fff;
   background: #285585;
