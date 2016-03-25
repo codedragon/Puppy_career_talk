@@ -16,6 +16,9 @@
 * boss was a Howard Hughes Investigator (decent pay, great benefits)
 * job was pretty stable for staff in academia
 
+Note:
+My name is Maria Mckinley, and I am calling my talk Changing Direction, because I think the lessons I learned will be helpful to anyone moving into a career in software development.
+
 
 
 ## Boss decided to move across the country
@@ -71,6 +74,16 @@ Story about whiteboard coding, practice helped for a while
 
 
 
+## Support with others looking for work
+* create or join an informal group or meetup group of people looking for work
+    * acquaintances/friends/pyladies
+    * exchange resumes, cover letters, practice interviews
+* More personal or professional help:<!-- .element: class="fragment" data-fragment-index="1" -->
+    * WA State Career Centers
+    * Matt Youngquist and Career Horizons
+
+
+
 # Serendipity
 
 Note:
@@ -85,19 +98,8 @@ this show again the importance of knowing people
 * learn nuts and bolts of job hunting in 21st century
 * support
 
-
-
-# Fortunately, there can be significant overlap
-
-
-
-## Support with others looking for work
-* create or join an informal group or meetup group of people looking for work
-    * acquaintances/friends/pyladies
-    * exchange resumes, cover letters, practice interviews
-* More personal or professional help:<!-- .element: class="fragment" data-fragment-index="1" -->
-    * WA State Career Centers
-    * Matt Youngquist and Career Horizons
+Note:
+there can be significant overlap
 
 
 
@@ -215,7 +217,12 @@ If you feel like you nailed an interview, but didn't hear back, think about what
 
 ![alt text](assets/a_a_milne.jpg "A A Milne")
 
+Note:
+As with the literal act of gardening, pursuing any practice seriously is a generative, hardy way to live in the world. You are in charge (as much as we can ever pretend to be — sometimes like a sea captain hugging the rail in a hurricane); you plan; you design; you labor; you struggle. And your reward is that in some seasons you create a gratifying bounty.  -Malamud Smith
 
+
+
+And now, if you will excuse me, I have to update my linkedin account, fix my blog and write some code.
 
 ### Thank you!
 
