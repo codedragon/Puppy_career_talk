@@ -150,7 +150,6 @@ Led me to TA position for python certificate program at uw.
 * how they got where they are
 * advice for people wanting to follow in their footsteps
 * what do they like/dislike about their present position
-* be persistant
 
 
 
@@ -159,6 +158,7 @@ Led me to TA position for python certificate program at uw.
 * What are you missing because you are switching careers/paths/industries? 
 * What have you learned/done in your present, recent job/project that speaks to that? 
 * What can you do right now to help to close that gap?
+* be persistant
 
 
 
