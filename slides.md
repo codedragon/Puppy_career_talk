@@ -150,6 +150,7 @@ Led me to TA position for python certificate program at uw.
 * how they got where they are
 * advice for people wanting to follow in their footsteps
 * what do they like/dislike about their present position
+* be persistant
 
 
 
