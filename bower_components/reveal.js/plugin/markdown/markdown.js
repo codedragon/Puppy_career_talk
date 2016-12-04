@@ -254,7 +254,7 @@
 					}
 				};
 
-				xhr.open( 'GET', url, false );
+				//xhr.open( 'GET', url, false );
 
 				try {
 					xhr.send();
