@@ -42,8 +42,8 @@ Sounds good, right?<!-- .element: class="fragment" data-fragment-index="3" -->
 
 
 # Lessons
-* Never assume
-* Always be preparing for your next step
+* Never Assume
+* Having a career is different from finding a job
 
 
 
@@ -59,7 +59,7 @@ Sounds good, right?<!-- .element: class="fragment" data-fragment-index="3" -->
 
 
 ## Lessons
-* Direction and goals really help, but be flexible
+* Choose a short term goal and a long view direction
     * Can be simple, just something to focus on
     * for me: python and best practices
 * Concentrate on what brings the most bang for your buck<!-- .element: class="fragment" data-fragment-index="1" -->
@@ -74,7 +74,7 @@ Story about whiteboard coding, practice helped for a while
 
 
 
-## Support with others looking for work
+## Desperation is not a good job mode
 * create or join an informal group or meetup group of people looking for work
     * acquaintances/friends/pyladies
     * exchange resumes, cover letters, practice interviews
@@ -88,13 +88,13 @@ Story about whiteboard coding, practice helped for a while
 
 Note:
 When to take a job: does it closer to where you want to be?
-this show again the importance of knowing people
+this shows again the importance of knowing people
 
 
 
 ## My goals:
-* code, code, code
-* get to know other developers
+* code, code, code: fill in knowledge gap
+* code with other developers
 * learn nuts and bolts of job hunting in 21st century
 * support
 
@@ -105,15 +105,15 @@ there can be significant overlap
 
 # A word about networking:
 Your most important connections will be the ones who have worked with you, coded with you 
-or see you as an expert on some level
+or see you as an expert on some level. How do you get this?
 
 
 
 ## coding meetups, coding dojos, hackathons, programming nights
-* learn craftsmanship/best practices as well as coding
-* find your people
-* pay attention to goals and technologies for right fit
-* find your voice
+ * learn craftsmanship/best practices as well as coding
+ * find your people
+ * pay attention to goals and technologies for right fit
+ * find your voice
 
 Note:
 If you have a tight resume/linkedin, you can get some headway with company recruiters,
@@ -147,8 +147,7 @@ Led me to TA position for python certificate program at uw.
 ## Seek out people in jobs you want and take them to coffee
 * use your connections on linked in
 * ask them what skills they use in their job
-* how they got where they are
-* advice for people wanting to follow in their footsteps
+* how they got where they are/advice to follow similar path
 * what do they like/dislike about their present position
 
 
@@ -159,6 +158,10 @@ Led me to TA position for python certificate program at uw.
 * What have you learned/done in your present, recent job/project that speaks to that? 
 * What can you do right now to help to close that gap?
 * be persistant
+
+
+
+# SCIENCE!
 
 
 
@@ -177,9 +180,10 @@ Led me to TA position for python certificate program at uw.
 Note:
 people will go to great lengths to justify implicit bias.
 implicit bias affects minorities and women as well.
+If you feel like you nailed an interview, but didn't hear back, think about what you may have missed, but don't dwell. It could just be implicit bias, so just consider that corporation as one we need to lure from the dark side, and move on.
 for people hiring: check your assumptions, are you rejecting someone for reasons that you would overlook if they were white male? Look at pictures of famous women/minorities before interviewing/looking at resumes.
 
-If you feel like you nailed an interview, but didn't hear back, think about what you may have missed, but don't dwell. It could just be implicit bias, so just consider that corporation as one we need to lure from the dark side, and move on.
+
 
 
 
@@ -199,7 +203,7 @@ If you feel like you nailed an interview, but didn't hear back, think about what
 * support - pyladies, seek out role models who 'look like you'
 * body language, check out [Amy Cuddy's Ted talk](https://www.youtube.com/watch?time_continue=175&v=Ks-_Mh1QhMc)
 * think about what makes you, you. All of your unique qualities and accomplishments
-* read articles/books about women who code
+* read articles/books about women/minorities who code
 * understand that intelligence is not fixed, and you are definitely capable of becoming an expert coder: effort and motivation are what is important
 
 
@@ -210,10 +214,17 @@ If you feel like you nailed an interview, but didn't hear back, think about what
 
 # How to overcome:
 * knowledge is power
-* highly prevalent
+* highly prevalent, can affects anyone, not just women/minorities
 * talk about it, chances are you have friends you have dealt with this
 * make a list of accomplishments, positive feedback and success stories
 
+
+
+
+## If you remember Nothing else from this talk:
+* Find your voice, become known
+* practice your art (coding)
+* do both simultaneously!
 
 
 ![alt text](assets/a_a_milne.jpg "A A Milne")
