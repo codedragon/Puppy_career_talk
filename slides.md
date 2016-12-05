@@ -212,13 +212,13 @@ for people hiring: check your assumptions, are you rejecting someone for reasons
 
 
 
-## Imposter Syndrome
+# Imposter Syndrome
 
 
 
 # How to overcome:
 * knowledge is power<!-- .element: class="fragment" data-fragment-index="1" -->
-* highly prevalent, can affects anyone, not just women/minorities<!-- .element: class="fragment" data-fragment-index="2" -->
+* highly prevalent, can affect anyone, not just women/minorities<!-- .element: class="fragment" data-fragment-index="2" -->
 * talk about it, chances are you have friends you have dealt with this<!-- .element: class="fragment" data-fragment-index="3" -->
 * make a list of accomplishments, positive feedback and success stories<!-- .element: class="fragment" data-fragment-index="4" -->
 
@@ -229,6 +229,7 @@ for people hiring: check your assumptions, are you rejecting someone for reasons
 * Find your voice, become known<!-- .element: class="fragment" data-fragment-index="1" -->
 * practice your art (coding)<!-- .element: class="fragment" data-fragment-index="2" -->
 * do both simultaneously!<!-- .element: class="fragment" data-fragment-index="3" -->
+* use version control and write tests
 
 
 ![alt text](assets/a_a_milne.jpg "A A Milne")
