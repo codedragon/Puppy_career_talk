@@ -93,10 +93,10 @@ this shows again the importance of knowing people
 
 
 ## My goals:
-* code, code, code: fill in knowledge gap
-* code with other developers
-* learn nuts and bolts of job hunting in 21st century
-* support
+* code, code, code: fill in knowledge gap.<!-- .element: class="fragment" data-fragment-index="1" -->
+* code with other developers.<!-- .element: class="fragment" data-fragment-index="2" -->
+* learn nuts and bolts of job hunting in 21st century.<!-- .element: class="fragment" data-fragment-index="3" -->
+* support.<!-- .element: class="fragment" data-fragment-index="4" -->
 
 Note:
 there can be significant overlap
@@ -145,18 +145,18 @@ Led me to TA position for python certificate program at uw.
 
 
 ## Seek out people in jobs you want and take them to coffee
-    * use your connections on linked in
-    * ask them what skills they use in their job
-    * how they got where they are/advice to follow similar path
-    * what do they like/dislike about their present position
+* use your connections on linked in.<!-- .element: class="fragment" data-fragment-index="1" -->
+* ask them what skills they use in their job.<!-- .element: class="fragment" data-fragment-index="2" -->
+* how they got where they are/advice to follow similar path.<!-- .element: class="fragment" data-fragment-index="3" -->
+* what do they like/dislike about their present position.<!-- .element: class="fragment" data-fragment-index="4" -->
 
 
 
 # Preparing for interviews:
-* People love good stories
-* What are you missing because you are switching careers/paths/industries? 
-* What have you learned/done in your present, recent job/project that speaks to that? 
-* What can you do right now to help to close that gap?
+* People love good stories.<!-- .element: class="fragment" data-fragment-index="1" -->
+* What are you missing because you are switching careers/paths/industries?.<!-- .element: class="fragment" data-fragment-index="2" -->
+* What have you learned/done in your present, recent job/project that speaks to that?.<!-- .element: class="fragment" data-fragment-index="3" -->
+* What can you do right now to help to close that gap?.<!-- .element: class="fragment" data-fragment-index="4" -->
 * be persistant
 
 
@@ -170,10 +170,10 @@ Led me to TA position for python certificate program at uw.
 
 
 
-## Implicit Bias
-* Implicit bias is a bias that you are unaware of. 
-* We are all affected by the culture we grow up in. 
-* Explicit beliefs and implicit bias can, and often do, conflict.
+## Implicit Bias.<!-- .element: class="fragment" data-fragment-index="1" -->
+* Implicit bias is a bias that you are unaware of.<!-- .element: class="fragment" data-fragment-index="2" -->
+* We are all affected by the culture we grow up in.<!-- .element: class="fragment" data-fragment-index="1" --> 
+* Explicit beliefs and implicit bias can, and often do, conflict.<!-- .element: class="fragment" data-fragment-index="1" -->
 
 [Take a test](https://implicit.harvard.edu/implicit/takeatest.html)
 
@@ -182,8 +182,6 @@ people will go to great lengths to justify implicit bias.
 implicit bias affects minorities and women as well.
 If you feel like you nailed an interview, but didn't hear back, think about what you may have missed, but don't dwell. It could just be implicit bias, so just consider that corporation as one we need to lure from the dark side, and move on.
 for people hiring: check your assumptions, are you rejecting someone for reasons that you would overlook if they were white male? Look at pictures of famous women/minorities before interviewing/looking at resumes.
-
-
 
 
 
@@ -200,11 +198,11 @@ for people hiring: check your assumptions, are you rejecting someone for reasons
 
 
 # How to overcome:
-* support - pyladies, seek out role models who 'look like you'
-* body language, check out [Amy Cuddy's Ted talk](https://www.youtube.com/watch?time_continue=175&v=Ks-_Mh1QhMc)
-* think about what makes you, you. All of your unique qualities and accomplishments
-* read articles/books about women/minorities who code
-* understand that intelligence is not fixed, and you are definitely capable of becoming an expert coder: effort and motivation are what is important
+* support - pyladies, seek out role models who 'look like you'.<!-- .element: class="fragment" data-fragment-index="1" -->
+* body language, check out [Amy Cuddy's Ted talk](https://www.youtube.com/watch?time_continue=175&v=Ks-_Mh1QhMc).<!-- .element: class="fragment" data-fragment-index="2" -->
+* think about what makes you, you. All of your unique qualities and accomplishments.<!-- .element: class="fragment" data-fragment-index="3" -->
+* read articles/books about women/minorities who code.<!-- .element: class="fragment" data-fragment-index="4" -->
+* understand that intelligence is not fixed, and you are definitely capable of becoming an expert coder: effort and motivation are what is important.<!-- .element: class="fragment" data-fragment-index="5" -->
 
 
 
@@ -213,18 +211,18 @@ for people hiring: check your assumptions, are you rejecting someone for reasons
 
 
 # How to overcome:
-* knowledge is power
-* highly prevalent, can affects anyone, not just women/minorities
-* talk about it, chances are you have friends you have dealt with this
-* make a list of accomplishments, positive feedback and success stories
+* knowledge is power.<!-- .element: class="fragment" data-fragment-index="1" -->
+* highly prevalent, can affects anyone, not just women/minorities.<!-- .element: class="fragment" data-fragment-index="2" -->
+* talk about it, chances are you have friends you have dealt with this.<!-- .element: class="fragment" data-fragment-index="3" -->
+* make a list of accomplishments, positive feedback and success stories.<!-- .element: class="fragment" data-fragment-index="4" -->
 
 
 
 
 ## If you remember Nothing else from this talk:
-* Find your voice, become known
-* practice your art (coding)
-* do both simultaneously!
+* Find your voice, become known.<!-- .element: class="fragment" data-fragment-index="1" -->
+* practice your art (coding).<!-- .element: class="fragment" data-fragment-index="2" -->
+* do both simultaneously!.<!-- .element: class="fragment" data-fragment-index="3" -->
 
 
 ![alt text](assets/a_a_milne.jpg "A A Milne")
@@ -238,7 +236,7 @@ And now, if you will excuse me, I have to update my linkedin account, fix my blo
 
 ### Thank you!
 
-http://codedragon.github.io/PyLadies_career_talk/#/
+http://codedragon.github.io/Puppy_career_talk/#/
 
 
 
