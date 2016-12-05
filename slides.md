@@ -28,11 +28,11 @@ Sounds good, right?<!-- .element: class="fragment" data-fragment-index="3" -->
 
 
 ## Issues
-* Recession.<!-- .element: class="fragment" data-fragment-index="1" -->
-* Sysadmin, most marketable skill, also my least favorite.<!-- .element: class="fragment" data-fragment-index="2" -->
-* Languages coded in were mostly irrelevant to industry.<!-- .element: class="fragment" data-fragment-index="3" -->
-* self-taught, worked in a vacuum.<!-- .element: class="fragment" data-fragment-index="4" -->
-* Only knew two other developers in Seattle.<!-- .element: class="fragment" data-fragment-index="5" -->
+* Recession<!-- .element: class="fragment" data-fragment-index="1" -->
+* Sysadmin, most marketable skill, also my least favorite<!-- .element: class="fragment" data-fragment-index="2" -->
+* Languages coded in were mostly irrelevant to industry<!-- .element: class="fragment" data-fragment-index="3" -->
+* self-taught, worked in a vacuum<!-- .element: class="fragment" data-fragment-index="4" -->
+* Only knew two other developers in Seattle<!-- .element: class="fragment" data-fragment-index="5" -->
 
 
 
@@ -44,16 +44,13 @@ Sounds good, right?<!-- .element: class="fragment" data-fragment-index="3" -->
 * Never Assume
 * Having a career is different from finding a job
 
+Note: 
+peppering the internet with resumes
+
 
 
 # Spent a good year flailing
 ![alt text](assets/SEPattyflailingwheee.gif "Flailing")
-
-
-
-## Soul Searching
-* Wanted to code, not sysadmin
-* Introvert, but clearly needed to figure out this networking thing
 
 
 
@@ -62,10 +59,10 @@ Sounds good, right?<!-- .element: class="fragment" data-fragment-index="3" -->
     * Can be simple, just something to focus on
     * for me: job where best pracices and developer growth are important
 * Concentrate on what brings the most bang for your buck<!-- .element: class="fragment" data-fragment-index="1" -->
-    for me:
+    for me:<!-- .element: class="fragment" data-fragment-index="2" -->
     * interviewing over whiteboarding
     * talks, teaching, coding events over small talk
-* find support, may be a long haul<!-- .element: class="fragment" data-fragment-index="2" -->
+* find support, may be a long haul<!-- .element: class="fragment" data-fragment-index="3" -->
 
 Note: 
 I found throwing resumes willy nilly to see if they stick to not be productive.
@@ -74,10 +71,10 @@ Story about whiteboard coding, practice helped for a while
 
 
 ## Desperation is not a good job mode
-* create or join an informal group or meetup group of people looking for work
+* create or join an informal group or meetup group of people looking for work<!-- .element: class="fragment" data-fragment-index="1" -->
     * acquaintances/friends/pyladies
     * exchange resumes, cover letters, practice interviews
-* More general or professional help:<!-- .element: class="fragment" data-fragment-index="1" -->
+* More general or professional help:<!-- .element: class="fragment" data-fragment-index="2" -->
     * WA State Career Centers
     * Matt Youngquist and Career Horizons
 
@@ -88,14 +85,21 @@ Story about whiteboard coding, practice helped for a while
 Note:
 When to take a job: does it closer to where you want to be?
 this shows again the importance of knowing people
+In job I love, but has some critical flaws
+
+
+
+## Soul Searching
+* Committed to coding, not sysadmin
+* Introvert, but clearly needed to figure out this networking thing
 
 
 
 ## My goals:
-* code, code, code: fill in knowledge gap.<!-- .element: class="fragment" data-fragment-index="1" -->
-* code with other developers.<!-- .element: class="fragment" data-fragment-index="2" -->
-* learn nuts and bolts of job hunting in 21st century.<!-- .element: class="fragment" data-fragment-index="3" -->
-* support.<!-- .element: class="fragment" data-fragment-index="4" -->
+* code, code, code: fill in knowledge gap<!-- .element: class="fragment" data-fragment-index="1" -->
+* code with other developers<!-- .element: class="fragment" data-fragment-index="2" -->
+* learn nuts and bolts of job hunting in 21st century<!-- .element: class="fragment" data-fragment-index="3" -->
+* support<!-- .element: class="fragment" data-fragment-index="4" -->
 
 Note:
 there can be significant overlap
@@ -104,7 +108,10 @@ there can be significant overlap
 
 # A word about networking:
 Your most important connections will be the ones who have worked with you, coded with you 
-or see you as an expert on some level. How do you get this?
+or see you as an expert on some level. How do you get this network?
+
+Note:
+do survey
 
 
 
@@ -144,19 +151,19 @@ Led me to TA position for python certificate program at uw.
 
 
 ## Seek out people in jobs you want and take them to coffee
-* use your connections on linked in.<!-- .element: class="fragment" data-fragment-index="1" -->
-* ask them what skills they use in their job.<!-- .element: class="fragment" data-fragment-index="2" -->
-* how they got where they are/advice to follow similar path.<!-- .element: class="fragment" data-fragment-index="3" -->
-* what do they like/dislike about their present position.<!-- .element: class="fragment" data-fragment-index="4" -->
+* use your connections on linked in<!-- .element: class="fragment" data-fragment-index="1" -->
+* ask them what skills they use in their job<!-- .element: class="fragment" data-fragment-index="2" -->
+* how they got where they are/advice to follow similar path<!-- .element: class="fragment" data-fragment-index="3" -->
+* what do they like/dislike about their present position<!-- .element: class="fragment" data-fragment-index="4" -->
 
 
 
 # Preparing for interviews:
-* People love good stories.<!-- .element: class="fragment" data-fragment-index="1" -->
-* What are you missing because you are switching careers/paths/industries?.<!-- .element: class="fragment" data-fragment-index="2" -->
-* What have you learned/done in your present, recent job/project that speaks to that?.<!-- .element: class="fragment" data-fragment-index="3" -->
-* What can you do right now to help to close that gap?.<!-- .element: class="fragment" data-fragment-index="4" -->
-* be persistant
+* People love good stories<!-- .element: class="fragment" data-fragment-index="1" -->
+* What are you missing because you are switching careers/paths/industries?<!-- .element: class="fragment" data-fragment-index="2" -->
+* What have you learned/done in your present, recent job/project that speaks to that?<!-- .element: class="fragment" data-fragment-index="3" -->
+* What can you do right now to help to close that gap?<!-- .element: class="fragment" data-fragment-index="4" -->
+* be persistant<!-- .element: class="fragment" data-fragment-index="5" -->
 
 
 
@@ -169,10 +176,10 @@ Led me to TA position for python certificate program at uw.
 
 
 
-## Implicit Bias.<!-- .element: class="fragment" data-fragment-index="1" -->
-* Implicit bias is a bias that you are unaware of.<!-- .element: class="fragment" data-fragment-index="2" -->
-* We are all affected by the culture we grow up in.<!-- .element: class="fragment" data-fragment-index="1" --> 
-* Explicit beliefs and implicit bias can, and often do, conflict.<!-- .element: class="fragment" data-fragment-index="1" -->
+## Implicit Bias<!-- .element: class="fragment" data-fragment-index="1" -->
+* Implicit bias is a bias that you are unaware of<!-- .element: class="fragment" data-fragment-index="2" -->
+* We are all affected by the culture we grow up in<!-- .element: class="fragment" data-fragment-index="1" --> 
+* Explicit beliefs and implicit bias can, and often do, conflict<!-- .element: class="fragment" data-fragment-index="1" -->
 
 [Take a test](https://implicit.harvard.edu/implicit/takeatest.html)
 
@@ -197,11 +204,11 @@ for people hiring: check your assumptions, are you rejecting someone for reasons
 
 
 # How to overcome:
-* support - pyladies, seek out role models who 'look like you'.<!-- .element: class="fragment" data-fragment-index="1" -->
-* body language, check out [Amy Cuddy's Ted talk](https://www.youtube.com/watch?time_continue=175&v=Ks-_Mh1QhMc).<!-- .element: class="fragment" data-fragment-index="2" -->
-* think about what makes you, you. All of your unique qualities and accomplishments.<!-- .element: class="fragment" data-fragment-index="3" -->
-* read articles/books about women/minorities who code.<!-- .element: class="fragment" data-fragment-index="4" -->
-* understand that intelligence is not fixed, and you are definitely capable of becoming an expert coder: effort and motivation are what is important.<!-- .element: class="fragment" data-fragment-index="5" -->
+* support - pyladies, seek out role models who 'look like you'<!-- .element: class="fragment" data-fragment-index="1" -->
+* body language, check out [Amy Cuddy's Ted talk](https://www.youtube.com/watch?time_continue=175&v=Ks-_Mh1QhMc)<!-- .element: class="fragment" data-fragment-index="2" -->
+* think about what makes you, you. All of your unique qualities and accomplishments<!-- .element: class="fragment" data-fragment-index="3" -->
+* read articles/books about women/minorities who code<!-- .element: class="fragment" data-fragment-index="4" -->
+* understand that intelligence is not fixed, and you are definitely capable of becoming an expert coder: effort and motivation are what is important<!-- .element: class="fragment" data-fragment-index="5" -->
 
 
 
@@ -210,18 +217,18 @@ for people hiring: check your assumptions, are you rejecting someone for reasons
 
 
 # How to overcome:
-* knowledge is power.<!-- .element: class="fragment" data-fragment-index="1" -->
-* highly prevalent, can affects anyone, not just women/minorities.<!-- .element: class="fragment" data-fragment-index="2" -->
-* talk about it, chances are you have friends you have dealt with this.<!-- .element: class="fragment" data-fragment-index="3" -->
-* make a list of accomplishments, positive feedback and success stories.<!-- .element: class="fragment" data-fragment-index="4" -->
+* knowledge is power<!-- .element: class="fragment" data-fragment-index="1" -->
+* highly prevalent, can affects anyone, not just women/minorities<!-- .element: class="fragment" data-fragment-index="2" -->
+* talk about it, chances are you have friends you have dealt with this<!-- .element: class="fragment" data-fragment-index="3" -->
+* make a list of accomplishments, positive feedback and success stories<!-- .element: class="fragment" data-fragment-index="4" -->
 
 
 
 
 ## If you remember Nothing else from this talk:
-* Find your voice, become known.<!-- .element: class="fragment" data-fragment-index="1" -->
-* practice your art (coding).<!-- .element: class="fragment" data-fragment-index="2" -->
-* do both simultaneously!.<!-- .element: class="fragment" data-fragment-index="3" -->
+* Find your voice, become known<!-- .element: class="fragment" data-fragment-index="1" -->
+* practice your art (coding)<!-- .element: class="fragment" data-fragment-index="2" -->
+* do both simultaneously!<!-- .element: class="fragment" data-fragment-index="3" -->
 
 
 ![alt text](assets/a_a_milne.jpg "A A Milne")
