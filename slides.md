@@ -176,7 +176,7 @@ Led me to TA position for python certificate program at uw.
 
 
 
-## Implicit Bias<!-- .element: class="fragment" data-fragment-index="1" -->
+## Implicit Bias
 * Implicit bias is a bias that you are unaware of<!-- .element: class="fragment" data-fragment-index="2" -->
 * We are all affected by the culture we grow up in<!-- .element: class="fragment" data-fragment-index="3" --> 
 * Explicit beliefs and implicit bias can, and often do, conflict<!-- .element: class="fragment" data-fragment-index="4" -->
