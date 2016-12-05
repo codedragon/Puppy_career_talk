@@ -110,10 +110,10 @@ or see you as an expert on some level. How do you get this?
 
 
 ## coding meetups, coding dojos, hackathons, programming nights
- * learn craftsmanship/best practices as well as coding
- * find your people
- * pay attention to goals and technologies for right fit
- * find your voice
+  * learn craftsmanship/best practices as well as coding
+  * find your people
+  * pay attention to goals and technologies for right fit
+  * find your voice
 
 Note:
 If you have a tight resume/linkedin, you can get some headway with company recruiters,
