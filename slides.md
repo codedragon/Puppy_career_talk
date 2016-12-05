@@ -5,7 +5,6 @@
 
 
 
-## Hint:
 ![alt text](assets/challengesdemotivator.jpeg "Challenges")
 
 
@@ -61,9 +60,9 @@ Sounds good, right?<!-- .element: class="fragment" data-fragment-index="3" -->
 ## Lessons
 * Choose a short term goal and a long view direction
     * Can be simple, just something to focus on
-    * for me: python and best practices
+    * for me: job where best pracices and developer growth are important
 * Concentrate on what brings the most bang for your buck<!-- .element: class="fragment" data-fragment-index="1" -->
-    * for me:
+    for me:
     * interviewing over whiteboarding
     * talks, teaching, coding events over small talk
 * find support, may be a long haul<!-- .element: class="fragment" data-fragment-index="2" -->
@@ -78,7 +77,7 @@ Story about whiteboard coding, practice helped for a while
 * create or join an informal group or meetup group of people looking for work
     * acquaintances/friends/pyladies
     * exchange resumes, cover letters, practice interviews
-* More personal or professional help:<!-- .element: class="fragment" data-fragment-index="1" -->
+* More general or professional help:<!-- .element: class="fragment" data-fragment-index="1" -->
     * WA State Career Centers
     * Matt Youngquist and Career Horizons
 
