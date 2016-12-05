@@ -229,7 +229,8 @@ for people hiring: check your assumptions, are you rejecting someone for reasons
 * Find your voice, become known<!-- .element: class="fragment" data-fragment-index="1" -->
 * practice your art (coding)<!-- .element: class="fragment" data-fragment-index="2" -->
 * do both simultaneously!<!-- .element: class="fragment" data-fragment-index="3" -->
-* use version control and write tests
+* use version control and write tests :)
+
 
 
 ![alt text](assets/a_a_milne.jpg "A A Milne")
