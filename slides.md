@@ -181,7 +181,7 @@ Led me to TA position for python certificate program at uw.
 * We are all affected by the culture we grow up in<!-- .element: class="fragment" data-fragment-index="3" --> 
 * Explicit beliefs and implicit bias can, and often do, conflict<!-- .element: class="fragment" data-fragment-index="4" -->
 
-[Take a test](https://implicit.harvard.edu/implicit/takeatest.html)
+[Take a test](https://implicit.harvard.edu/implicit/takeatest.html)<!-- .element: class="fragment" data-fragment-index="5" -->
 
 Note:
 people will go to great lengths to justify implicit bias.
