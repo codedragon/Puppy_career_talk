@@ -110,10 +110,10 @@ or see you as an expert on some level. How do you get this?
 
 
 ## coding meetups, coding dojos, hackathons, programming nights
-  * learn craftsmanship/best practices as well as coding
-  * find your people
-  * pay attention to goals and technologies for right fit
-  * find your voice
+* learn craftsmanship/best practices as well as coding
+* find your people
+* pay attention to goals and technologies for right fit
+* find your voice
 
 Note:
 If you have a tight resume/linkedin, you can get some headway with company recruiters,
@@ -145,10 +145,10 @@ Led me to TA position for python certificate program at uw.
 
 
 ## Seek out people in jobs you want and take them to coffee
-* use your connections on linked in
-* ask them what skills they use in their job
-* how they got where they are/advice to follow similar path
-* what do they like/dislike about their present position
+    * use your connections on linked in
+    * ask them what skills they use in their job
+    * how they got where they are/advice to follow similar path
+    * what do they like/dislike about their present position
 
 
 
