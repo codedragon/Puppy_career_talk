@@ -205,7 +205,7 @@ for people hiring: check your assumptions, are you rejecting someone for reasons
 
 # How to overcome:
 * support - pyladies, seek out role models who 'look like you'<!-- .element: class="fragment" data-fragment-index="1" -->
-* body language, check out [Amy Cuddy's Ted talk](https://www.youtube.com/watch?time_continue=175&v=Ks-_Mh1QhMc)<!-- .element: class="fragment" data-fragment-index="2" -->
+* body language, check out [Amy Cuddy's Ted talk](https://www.youtube.com/watch?time_continue=175&v=Ks-_Mh1QhMc) <!-- .element: class="fragment" data-fragment-index="2" -->
 * think about what makes you, you. All of your unique qualities and accomplishments<!-- .element: class="fragment" data-fragment-index="3" -->
 * read articles/books about women/minorities who code<!-- .element: class="fragment" data-fragment-index="4" -->
 * understand that intelligence is not fixed, and you are definitely capable of becoming an expert coder: effort and motivation are what is important<!-- .element: class="fragment" data-fragment-index="5" -->
