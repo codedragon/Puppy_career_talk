@@ -40,39 +40,28 @@ Sounds good, right?<!-- .element: class="fragment" data-fragment-index="3" -->
 
 
 
-# Lessons
-* Never Assume
-* Having a career is different from finding a job
-
-Note: 
-peppering the internet with resumes
-
-
-
-# Spent a good year flailing
+# Spent a good year + flailing
 ![alt text](assets/SEPattyflailingwheee.gif "Flailing")
 
 
 
 ## Lessons
-* Choose a short term goal and a long view direction
-    * Can be simple, just something to focus on
-    * for me: job where best pracices and developer growth are important
-* Concentrate on what brings the most bang for your buck<!-- .element: class="fragment" data-fragment-index="1" -->
+* Have a goal<!-- .element: class="fragment" data-fragment-index="1" -->
+    * for me: job where best pracices and developer growth are important, no sysadmin
+* Concentrate on what brings the most bang for your buck
     for me:<!-- .element: class="fragment" data-fragment-index="2" -->
     * interviewing over whiteboarding
-    * talks, teaching, coding events over small talk
 * find support, may be a long haul<!-- .element: class="fragment" data-fragment-index="3" -->
 
 Note: 
-I found throwing resumes willy nilly to see if they stick to not be productive.
+I found throwing resumes willy nilly to see if they stick to not be productive: symptom of too broad a goal
 Story about whiteboard coding, practice helped for a while
 
 
 
 ## Desperation is not a good job mode
 * create or join an informal group or meetup group of people looking for work<!-- .element: class="fragment" data-fragment-index="1" -->
-    * acquaintances/friends/pyladies
+    * acquaintances/friends/meetup group
     * exchange resumes, cover letters, practice interviews
 * More general or professional help:<!-- .element: class="fragment" data-fragment-index="2" -->
     * WA State Career Centers
@@ -83,7 +72,7 @@ Story about whiteboard coding, practice helped for a while
 # Serendipity
 
 Note:
-When to take a job: does it closer to where you want to be?
+When to take a job: does it take you closer to where you want to be?
 this shows again the importance of knowing people
 In job I love, but has some critical flaws
 
