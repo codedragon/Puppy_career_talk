@@ -45,7 +45,7 @@ Sounds good, right?<!-- .element: class="fragment" data-fragment-index="3" -->
 
 
 
-## Desperation is not a good job mode
+## Desperation is not a good job hunting mode
 * create or join a group of people looking for work<!-- .element: class="fragment" data-fragment-index="1" -->
     * acquaintances/friends/meetup group
     * exchange resumes, cover letters, practice interviews
@@ -97,12 +97,9 @@ Peter
 ## Find your people
 * coding meetups, coding dojos, hackathons, programming nights
 * Code with them!
-
-
-
-## Additional benefits
-* learn craftsmanship/best practices
-* experiment with technologies/fields for right fit
+## Free, you also get:<!-- .element: class="fragment" data-fragment-index="1" -->
+* learn craftsmanship/best practices<!-- .element: class="fragment" data-fragment-index="1" -->
+* experiment with technologies/fields for right fit<!-- .element: class="fragment" data-fragment-index="1" -->
 
 
 
@@ -176,11 +173,11 @@ for people hiring: check your assumptions, are you rejecting someone for reasons
 
 
 
-## StereoType Threat
+# StereoType Threat
 
 
 
-# How to overcome:
+## How to overcome:
 * support - pyladies, seek out role models who 'look like you'<!-- .element: class="fragment" data-fragment-index="1" -->
 * think about what makes you, you. All of your unique qualities and accomplishments<!-- .element: class="fragment" data-fragment-index="2" -->
 * read articles/books about women/minorities who code<!-- .element: class="fragment" data-fragment-index="3" -->
@@ -193,7 +190,7 @@ for people hiring: check your assumptions, are you rejecting someone for reasons
 
 
 
-# How to overcome:
+## How to overcome:
 * knowledge is power<!-- .element: class="fragment" data-fragment-index="1" -->
 * highly prevalent, can affect anyone, not just women/minorities<!-- .element: class="fragment" data-fragment-index="2" -->
 * talk about it, chances are you have friends you have dealt with this<!-- .element: class="fragment" data-fragment-index="3" -->
@@ -225,7 +222,7 @@ http://codedragon.github.io/Puppy_career_talk/#/
 
 
 # Links to relevant research
-[Great essay about sterotype threat with lots of research links](https://medium.com/@BoutiqueAcademia/fighting-stereotype-threat-with-jewelry-680b406296e#.9jo1yzob7) (I'm also a fan of her [jewelry store](http://www.boutiqueacademia.com/)) I wonder if we could get her to do pyladies jewelry...
+[Great essay about sterotype threat with lots of research links](https://medium.com/@BoutiqueAcademia/fighting-stereotype-threat-with-jewelry-680b406296e#.9jo1yzob7) (I'm also a fan of her [jewelry store](http://www.boutiqueacademia.com/)) I wonder if we could get her to make python jewelry...
 
 [Gender discrimination in hiring](http://www.socialjudgments.com/research.html)
 
