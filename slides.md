@@ -73,8 +73,7 @@ In job I love, but has some critical flaws
 
 
 # A word about networking:
-### Your most important connections will be the ones who have worked with you, coded with you 
-### or see you as an expert on some level. 
+### Your most important connections will be the ones who have worked with you, coded with you or see you as an expert on some level. 
 ### How do you get this network?<!-- .element: class="fragment" data-fragment-index="1" -->
 
 Note:
@@ -84,7 +83,7 @@ do survey
 
 
 
-[#Find Your Voice](http://emptysqua.re/blog/tech-talks-are-campfires-jesses-three-reasons-you-should-speak-at-pycon/)
+#[Find Your Voice](http://emptysqua.re/blog/tech-talks-are-campfires-jesses-three-reasons-you-should-speak-at-pycon/)
 
 Note:
 Peter
