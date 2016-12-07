@@ -73,11 +73,12 @@ In job I love, but has some critical flaws
 
 
 # A word about networking:
-### Your most important connections will have:
+### Your most important connections will have:<!-- .element: class="fragment" data-fragment-index="1" -->
 * worked with you 
 * coded with you 
 * see you as an expert
-### How do you get this network?<!-- .element: class="fragment" data-fragment-index="1" -->
+
+### How do you get this network?<!-- .element: class="fragment" data-fragment-index="2" -->
 
 Note:
 If you have a tight resume/linkedin, you can get some headway with company recruiters,
