@@ -94,7 +94,7 @@ Peter
 
 
 
-## Find your people
+# Find your people
 * coding meetups, coding dojos, hackathons, programming nights
 * Code with them!
 ## Free, you also get:<!-- .element: class="fragment" data-fragment-index="1" -->
@@ -217,7 +217,7 @@ And now, if you will excuse me, I have to update my linkedin account, fix my blo
 
 ### Thank you!
 
-http://codedragon.github.io/Puppy_career_talk/#/
+https://codedragon.github.io/Puppy_career_talk/#/
 
 
 
