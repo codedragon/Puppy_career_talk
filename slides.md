@@ -47,9 +47,8 @@ Sounds good, right?<!-- .element: class="fragment" data-fragment-index="3" -->
 
 ## Lessons
 * Have a goal<!-- .element: class="fragment" data-fragment-index="1" -->
-    * for me: job where best pracices and developer growth are important, no sysadmin
-* Concentrate on what brings the most bang for your buck
-    for me:<!-- .element: class="fragment" data-fragment-index="2" -->
+    * job where best pracices and developer growth are important, no sysadmin
+* Concentrate on what brings the most bang for your buck<!-- .element: class="fragment" data-fragment-index="2" -->
     * interviewing over whiteboarding
 * find support, may be a long haul<!-- .element: class="fragment" data-fragment-index="3" -->
 
