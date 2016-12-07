@@ -46,7 +46,7 @@ Sounds good, right?<!-- .element: class="fragment" data-fragment-index="3" -->
 
 
 ## Desperation is not a good job mode
-* create or join an informal group or meetup group of people looking for work<!-- .element: class="fragment" data-fragment-index="1" -->
+* create or join a group of people looking for work<!-- .element: class="fragment" data-fragment-index="1" -->
     * acquaintances/friends/meetup group
     * exchange resumes, cover letters, practice interviews
 * More general or professional help:<!-- .element: class="fragment" data-fragment-index="2" -->
@@ -73,15 +73,13 @@ In job I love, but has some critical flaws
 
 
 # A word about networking:
-Your most important connections will be the ones who have worked with you, coded with you 
+## Your most important connections will be the ones who have worked with you, coded with you 
 or see you as an expert on some level. 
-How do you get this network?<!-- .element: class="fragment" data-fragment-index="1" -->
+## How do you get this network?<!-- .element: class="fragment" data-fragment-index="1" -->
 
 Note:
 If you have a tight resume/linkedin, you can get some headway with company recruiters,
 but inside help will help get you past your deficiencies
-
-Note:
 do survey
 
 
