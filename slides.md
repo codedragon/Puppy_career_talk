@@ -73,9 +73,9 @@ In job I love, but has some critical flaws
 
 
 # A word about networking:
-## Your most important connections will be the ones who have worked with you, coded with you 
-or see you as an expert on some level. 
-## How do you get this network?<!-- .element: class="fragment" data-fragment-index="1" -->
+### Your most important connections will be the ones who have worked with you, coded with you 
+### or see you as an expert on some level. 
+### How do you get this network?<!-- .element: class="fragment" data-fragment-index="1" -->
 
 Note:
 If you have a tight resume/linkedin, you can get some headway with company recruiters,
