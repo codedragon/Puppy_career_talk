@@ -45,19 +45,6 @@ Sounds good, right?<!-- .element: class="fragment" data-fragment-index="3" -->
 
 
 
-## Lessons
-* Have a goal<!-- .element: class="fragment" data-fragment-index="1" -->
-    * job where best pracices and developer growth are important, no sysadmin
-* Concentrate on what brings the most bang for your buck<!-- .element: class="fragment" data-fragment-index="2" -->
-    * interviewing over whiteboarding
-* find support, may be a long haul<!-- .element: class="fragment" data-fragment-index="3" -->
-
-Note: 
-I found throwing resumes willy nilly to see if they stick to not be productive: symptom of too broad a goal
-Story about whiteboard coding, practice helped for a while
-
-
-
 ## Desperation is not a good job mode
 * create or join an informal group or meetup group of people looking for work<!-- .element: class="fragment" data-fragment-index="1" -->
     * acquaintances/friends/meetup group
@@ -71,55 +58,56 @@ Story about whiteboard coding, practice helped for a while
 # Serendipity
 
 Note:
-When to take a job: does it take you closer to where you want to be?
 this shows again the importance of knowing people
+When to take a job: does it take you closer to where you want to be? Yes, pressure off, coding, very littley sysadmin
 In job I love, but has some critical flaws
 
 
 
 ## Soul Searching
-* Committed to coding, not sysadmin
-* Introvert, but clearly needed to figure out this networking thing
-
-
-
-## My goals:
-* code, code, code: fill in knowledge gap<!-- .element: class="fragment" data-fragment-index="1" -->
-* code with other developers<!-- .element: class="fragment" data-fragment-index="2" -->
-* learn nuts and bolts of job hunting in 21st century<!-- .element: class="fragment" data-fragment-index="3" -->
-* support<!-- .element: class="fragment" data-fragment-index="4" -->
-
-Note:
-there can be significant overlap
+* Direction: Committed to coding, not sysadmin<!-- .element: class="fragment" data-fragment-index="1" -->
+* Goal: job where best practices and developer growth are valued<!-- .element: class="fragment" data-fragment-index="2" -->
+* Introvert, but clearly needed to figure out this networking thing<!-- .element: class="fragment" data-fragment-index="3" -->
+* Bang for you buck: interviews over whiteboarding<!-- .element: class="fragment" data-fragment-index="4" -->
 
 
 
 # A word about networking:
 Your most important connections will be the ones who have worked with you, coded with you 
-or see you as an expert on some level. How do you get this network?
+or see you as an expert on some level. 
+How do you get this network?<!-- .element: class="fragment" data-fragment-index="1" -->
+
+Note:
+If you have a tight resume/linkedin, you can get some headway with company recruiters,
+but inside help will help get you past your deficiencies
 
 Note:
 do survey
 
 
 
-## coding meetups, coding dojos, hackathons, programming nights
-* learn craftsmanship/best practices as well as coding
-* find your people
-* pay attention to goals and technologies for right fit
-* find your voice
+[Find Your Voice](http://emptysqua.re/blog/tech-talks-are-campfires-jesses-three-reasons-you-should-speak-at-pycon/)
 
 Note:
-If you have a tight resume/linkedin, you can get some headway with company recruiters,
-but inside help will help get you past your deficiencies
 Peter
-getting your resume in the right hand useful, having a personal note on that resume, even better
-giving talks, teaching - becoming an expert, better way to network,
-When I started as a TA, I barely knew more than the students
 
 
 
-[Blog post about why you should speak at pycon and local events](http://emptysqua.re/blog/tech-talks-are-campfires-jesses-three-reasons-you-should-speak-at-pycon/)
+## Find your people
+* Code with them!
+* coding meetups, coding dojos, hackathons, programming nights
+
+
+
+## Additional benefits
+* learn craftsmanship/best practices
+* experiment with technologies/fields for right fit
+
+
+
+## Teaching others 
+newbies can be the best teachers
+
 
 
 
