@@ -84,7 +84,7 @@ do survey
 
 
 
-[Find Your Voice](http://emptysqua.re/blog/tech-talks-are-campfires-jesses-three-reasons-you-should-speak-at-pycon/)
+[#Find Your Voice](http://emptysqua.re/blog/tech-talks-are-campfires-jesses-three-reasons-you-should-speak-at-pycon/)
 
 Note:
 Peter
