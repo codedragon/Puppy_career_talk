@@ -95,8 +95,8 @@ Peter
 
 
 ## Find your people
-* Code with them!
 * coding meetups, coding dojos, hackathons, programming nights
+* Code with them!
 
 
 
@@ -128,7 +128,7 @@ Led me to TA position for python certificate program at uw.
 
 
 ## Seek out people in jobs you want and take them to coffee
-* use your connections on linked in<!-- .element: class="fragment" data-fragment-index="1" -->
+* use your connections on LinkedIn<!-- .element: class="fragment" data-fragment-index="1" -->
 * ask them what skills they use in their job<!-- .element: class="fragment" data-fragment-index="2" -->
 * how they got where they are/advice to follow similar path<!-- .element: class="fragment" data-fragment-index="3" -->
 * what do they like/dislike about their present position<!-- .element: class="fragment" data-fragment-index="4" -->
@@ -138,7 +138,7 @@ Led me to TA position for python certificate program at uw.
 # Preparing for interviews:
 * People love good stories<!-- .element: class="fragment" data-fragment-index="1" -->
 * What are you missing because you are switching careers/paths/industries?<!-- .element: class="fragment" data-fragment-index="2" -->
-* What have you learned/done in your present, recent job/project that speaks to that?<!-- .element: class="fragment" data-fragment-index="3" -->
+* What have you learned/done that speaks to that?<!-- .element: class="fragment" data-fragment-index="3" -->
 * What can you do right now to help to close that gap?<!-- .element: class="fragment" data-fragment-index="4" -->
 * be persistant<!-- .element: class="fragment" data-fragment-index="5" -->
 
@@ -201,12 +201,11 @@ for people hiring: check your assumptions, are you rejecting someone for reasons
 
 
 
-
-## If you remember Nothing else from this talk:
+## If you remember nothing else from this talk:
 * Find your voice, become known<!-- .element: class="fragment" data-fragment-index="1" -->
 * practice your art (coding)<!-- .element: class="fragment" data-fragment-index="2" -->
-* do both simultaneously!<!-- .element: class="fragment" data-fragment-index="3" -->
-* use version control and write tests :)
+* do both simultaneously :)<!-- .element: class="fragment" data-fragment-index="3" -->
+* use version control and write tests :)<!-- .element: class="fragment" data-fragment-index="4" -->
 
 
 
