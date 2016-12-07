@@ -103,7 +103,7 @@ Peter
 
 
 
-## Teaching others 
+# Teaching others 
 newbies can be the best teachers
 
 
@@ -117,7 +117,7 @@ Led me to TA position for python certificate program at uw.
 
 
 
-## Online Presence
+# Online Presence
 * LinkedIn
 * Github
 * Blog
