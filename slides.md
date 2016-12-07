@@ -74,9 +74,9 @@ In job I love, but has some critical flaws
 
 # A word about networking:
 ### Your most important connections will have:<!-- .element: class="fragment" data-fragment-index="1" -->
-* worked with you 
-* coded with you 
-* see you as an expert
+* worked with you<!-- .element: class="fragment" data-fragment-index="1" -->
+* coded with you<!-- .element: class="fragment" data-fragment-index="1" --> 
+* see you as an expert<!-- .element: class="fragment" data-fragment-index="1" -->
 
 ### How do you get this network?<!-- .element: class="fragment" data-fragment-index="2" -->
 
