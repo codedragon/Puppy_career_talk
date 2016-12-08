@@ -221,7 +221,7 @@ https://codedragon.github.io/Puppy_career_talk/#/
 
 
 
-# Links to relevant research
+## Links to relevant research
 [Great essay about sterotype threat with lots of research links](https://medium.com/@BoutiqueAcademia/fighting-stereotype-threat-with-jewelry-680b406296e#.9jo1yzob7) (I'm also a fan of her [jewelry store](http://www.boutiqueacademia.com/)) I wonder if we could get her to make python jewelry...
 
 [Gender discrimination in hiring](http://www.socialjudgments.com/research.html)
