@@ -222,15 +222,13 @@ https://codedragon.github.io/Puppy_career_talk/#/
 
 
 ## Links to relevant research
-[Great essay about sterotype threat with lots of research links](https://medium.com/@BoutiqueAcademia/fighting-stereotype-threat-with-jewelry-680b406296e#.9jo1yzob7) (Bonus cool jewelry [jewelry store](http://www.boutiqueacademia.com/)) Perhaps she would make python jewelry...
+[Great essay about sterotype threat with lots of research links](https://medium.com/@BoutiqueAcademia/fighting-stereotype-threat-with-jewelry-680b406296e#.9jo1yzob7) (Bonus cool [jewelry](http://www.boutiqueacademia.com/)) Perhaps she would make python jewelry...
 
 [Gender discrimination in hiring](http://www.socialjudgments.com/research.html)
 
 [Great book about gender, society and neuroscience](http://www.goodreads.com/book/show/8031168-delusions-of-gender)
 
-[Implicit bias overview, updated regularly](https://plato.stanford.edu/entries/implicit-bias/)
-
-[Implicit bias Test](https://implicit.harvard.edu/implicit/takeatest.html)
+[Implicit bias overview, links to research and Harvard test](https://perception.org/research/implicit-bias)
 
 [Maria Klawe's, president of Harvey Mudd College, essay on Imposter Syndrome
 ](http://www.slate.com/articles/technology/future_tense/2014/03/imposter_syndrome_how_the_president_of_harvey_mudd_college_copes.html)
