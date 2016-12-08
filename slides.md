@@ -228,7 +228,9 @@ https://codedragon.github.io/Puppy_career_talk/#/
 
 [Great book about gender, society and neuroscience](http://www.goodreads.com/book/show/8031168-delusions-of-gender)
 
-[Most recent implicit bias finding](http://www.washington.edu/news/2016/02/11/male-biology-students-consistently-underestimate-female-peers-study-finds/)
+[Implicit bias overview, updated regularly](https://plato.stanford.edu/entries/implicit-bias/)
+
+[Implicit bias Test](https://implicit.harvard.edu/implicit/takeatest.html)
 
 [Maria Klawe's, president of Harvey Mudd College, essay on Imposter Syndrome
 ](http://www.slate.com/articles/technology/future_tense/2014/03/imposter_syndrome_how_the_president_of_harvey_mudd_college_copes.html)
