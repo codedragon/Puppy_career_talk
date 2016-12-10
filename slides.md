@@ -135,8 +135,8 @@ Led me to TA position for python certificate program at uw.
 # Preparing for interviews:
 * People love good stories<!-- .element: class="fragment" data-fragment-index="1" -->
 * What are you missing because you are switching careers/paths/industries?<!-- .element: class="fragment" data-fragment-index="2" -->
-* What have you learned/done that speaks to that?<!-- .element: class="fragment" data-fragment-index="3" -->
-* What can you do right now to help to close that gap?<!-- .element: class="fragment" data-fragment-index="4" -->
+* What can you do right now to help to close that gap?<!-- .element: class="fragment" data-fragment-index="3" -->
+* What have you learned/done that speaks to that?<!-- .element: class="fragment" data-fragment-index="4" -->
 * be persistant<!-- .element: class="fragment" data-fragment-index="5" -->
 
 
@@ -199,10 +199,10 @@ for people hiring: check your assumptions, are you rejecting someone for reasons
 
 
 ## If you remember nothing else from this talk:
-* Find your voice, become known<!-- .element: class="fragment" data-fragment-index="1" -->
-* practice your art (coding)<!-- .element: class="fragment" data-fragment-index="2" -->
-* do both simultaneously :)<!-- .element: class="fragment" data-fragment-index="3" -->
-* use version control and write tests :)<!-- .element: class="fragment" data-fragment-index="4" -->
+* Code with others <!-- .element: class="fragment" data-fragment-index="1" -->
+* Find your voice <!-- .element: class="fragment" data-fragment-index="2" -->
+* Have a goal <!-- .element: class="fragment" data-fragment-index="3" -->
+* use version control and write tests ;)<!-- .element: class="fragment" data-fragment-index="4" -->
 
 
 
@@ -213,7 +213,7 @@ As with the literal act of gardening, pursuing any practice seriously is a gener
 
 
 
-And now, if you will excuse me, I have to update my linkedin account, fix my blog and write some code.
+And now, if you will excuse me, I have to update my linkedin account, fix my blog and write some code...
 
 ### Thank you!
 
