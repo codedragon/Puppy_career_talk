@@ -127,10 +127,10 @@ Led me to TA position for python certificate program at uw.
 
 <section data-background="assets/coffee.jpg">
 ## Seek out people in jobs you want and take them to coffee
-* use your connections on LinkedIn<!-- .element: class="fragment" data-fragment-index="1" data-fragment highlight="black"-->
-* ask them what skills they use in their job<!-- .element: class="fragment" data-fragment-index="2" -->
-* how they got where they are/advice to follow similar path<!-- .element: class="fragment" data-fragment-index="3" -->
-* what do they like/dislike about their present position<!-- .element: class="fragment" data-fragment-index="4" -->
+* use your connections on LinkedIn<!-- .element: class="fragment" data-fragment-index="1" data-fragment highlight="black" -->
+* ask them what skills they use in their job<!-- .element: class="fragment" data-fragment-index="2" data-fragment highlight="black" -->
+* how they got where they are/advice to follow similar path<!-- .element: class="fragment" data-fragment-index="3" data-fragment highlight="black" -->
+* what do they like/dislike about their present position<!-- .element: class="fragment" data-fragment-index="4" data-fragment highlight="black" -->
 
 
 
