@@ -104,8 +104,9 @@ Peter
 
 
 # Teaching others 
-newbies can be the best teachers
 ![alt text](assets/teacher.jpeg "Teaching")
+newbies can be the best teachers
+
 
 
 
