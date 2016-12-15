@@ -1,7 +1,7 @@
 # Changing Direction
 
 ## or
-## How I doubled my salary while moving from academia to industry.<!-- .element: class="fragment" data-fragment-index="0" -->
+## How I doubled my salary while moving from academia to industry<!-- .element: class="fragment" data-fragment-index="0" -->
 
 
 
@@ -105,7 +105,7 @@ Peter
 
 # Teaching others 
 newbies can be the best teachers
-
+![alt text](assets/teacher.jpeg "Teaching")
 
 
 
