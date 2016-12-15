@@ -68,7 +68,7 @@ In job I love, but has some critical flaws
 * Direction: Committed to coding, not sysadmin<!-- .element: class="fragment" data-fragment-index="1" -->
 * Goal: job where best practices and developer growth are valued<!-- .element: class="fragment" data-fragment-index="2" -->
 * Introvert, but clearly needed to figure out this networking thing<!-- .element: class="fragment" data-fragment-index="3" -->
-* Bang for you buck: interviews over whiteboarding<!-- .element: class="fragment" data-fragment-index="4" -->
+* Bang for your buck: interviews over whiteboarding<!-- .element: class="fragment" data-fragment-index="4" -->
 
 
 
@@ -126,7 +126,7 @@ Led me to TA position for python certificate program at uw.
 
 
 <section data-background="assets/coffee.jpg">
-## Seek out people in jobs you want and take them to coffee
+## Seek out people in jobs or companies that interest you, and take them to coffee
 * use your connections on LinkedIn<!-- .element: class="fragment" data-fragment-index="1" data-fragment highlight="black" -->
 * ask them what skills they use in their job<!-- .element: class="fragment" data-fragment-index="2" data-fragment highlight="black" -->
 * how they got where they are/advice to follow similar path<!-- .element: class="fragment" data-fragment-index="3" data-fragment highlight="black" -->
@@ -195,7 +195,7 @@ for people hiring: check your assumptions, are you rejecting someone for reasons
 ## How to overcome:
 * knowledge is power<!-- .element: class="fragment" data-fragment-index="1" -->
 * highly prevalent, can affect anyone, not just women/minorities<!-- .element: class="fragment" data-fragment-index="2" -->
-* talk about it, chances are you have friends you have dealt with this<!-- .element: class="fragment" data-fragment-index="3" -->
+* talk about it, chances are you have friends who have dealt with this<!-- .element: class="fragment" data-fragment-index="3" -->
 * make a list of accomplishments, positive feedback and success stories<!-- .element: class="fragment" data-fragment-index="4" -->
 
 
